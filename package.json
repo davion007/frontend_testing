@@ -1,0 +1,12 @@
+{
+  "name": "frontend_testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.44.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.12"
+  }
+}
